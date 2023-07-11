@@ -13,7 +13,7 @@ This application generally store the data into the csv file from the CRYPTO API 
 | Documentation  | https://coinmarketcap.com/api/documentation/v1/#section/Quick-Start-Guide |<br>
 
 
-Read the document and replace the URL domain with the link: https://pro-api.coinmarketcap.com <br>
+Read the document and replace the domain URL with the link: https://pro-api.coinmarketcap.com <br>
 
 
 **Run this command in the ACP before create the jupyter notebook**<br>
