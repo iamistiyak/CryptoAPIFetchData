@@ -10,7 +10,11 @@ This application generally store the data into the csv file from the CRYPTO API 
 | :--- | --- |
 | Website link | https://coinmarketcap.com/ |
 | API link | https://coinmarketcap.com/api/ |
-| Documentation  | https://coinmarketcap.com/api/documentation/v1/#section/Quick-Start-Guide |
+| Documentation  | https://coinmarketcap.com/api/documentation/v1/#section/Quick-Start-Guide |<br>
+
+
+Read the document and replace the URL domain with the link: https://pro-api.coinmarketcap.com <br>
+
 
 **Run this command in the ACP before create the jupyter notebook**<br>
 **Anaconda command prompt:** 
