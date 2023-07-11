@@ -12,7 +12,7 @@ This application generally store the data into the csv file from the CRYPTO API 
 | API link | https://coinmarketcap.com/api/ |
 | Documentation  | https://coinmarketcap.com/api/documentation/v1/#section/Quick-Start-Guide |
 
-**Run this command in the ACP before create the jupyter notebook**
+**Run this command in the ACP before create the jupyter notebook**<br>
 **Anaconda command prompt:** 
 jupyter notebook --NotebookApp.iopub_data_rate_limit=10000000000
 
